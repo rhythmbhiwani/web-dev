@@ -1,0 +1,16 @@
+hr{
+	border-style:none;
+	border-top:10px dotted #330000;
+	height:0;
+	width:10%;
+}
+body{
+	background-color: #ffcccc;
+}
+h1{
+	color:#4d0000;
+}
+h2{
+	color: #00004d;
+}
+
